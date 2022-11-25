@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My little corner of the internet can be found at https://husjon.github.io/
+
 <!--
 **husjon/husjon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
