@@ -2,6 +2,9 @@
 
 My little corner of the internet can be found at https://husjon.github.io/
 
+
+If you'd like to ask a question, create an [issue](https://github.com/husjon/husjon/issues/new) and I'll answer as soon as I can.
+
 <!--
 **husjon/husjon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
